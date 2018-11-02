@@ -2,7 +2,6 @@ package ru.smoldyrev.order;
 
 import static org.junit.Assert.*;
 import org.junit.Test;
-import ru.smoldyrev.order.Order;
 
 import static org.hamcrest.CoreMatchers.*;
 
