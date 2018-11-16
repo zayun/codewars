@@ -2,19 +2,16 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e556d5e2-f97c-4824-bb3d-ab9c3feb230e" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/prime/PrimeDecomp.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/prime/PrimeDecomp2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/prime/PrimeDecompTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/racing/Tortoise.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/racing/TortoiseTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/rps/Player.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/rps/RockPaperScissorsPlayer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/twotoone/TwoToOne.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/twotoone/TwoToOneTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/walk/ExampleTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/walk/TenMinWalk.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/words/SpinWords.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/words/SpinWordsTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/checkmate/CheckAndMate.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/checkmate/CheckAndMate_Tests.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/checkmate/PieceConfig.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/jp/Josephus.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/jp/Josephus2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/jp/JosephusTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/power/PerfectPower.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/power/PerfectPowerTest.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/scramble/Scramblies.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/ru/smoldyrev/scramble/ScrambliesTest.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -28,11 +25,11 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="PrimeDecomp.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/prime/PrimeDecomp.java">
+      <file leaf-file-name="Josephus.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/jp/Josephus.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="153">
-              <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="408">
+              <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -40,148 +37,139 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoToOne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/twotoone/TwoToOne.java">
+      <file leaf-file-name="Scramblies.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/scramble/Scramblies.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="119">
-              <caret line="7" column="8" lean-forward="false" selection-start-line="7" selection-start-column="8" selection-end-line="7" selection-end-column="144" />
+            <state relative-caret-position="136">
+              <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="124" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Player.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/rps/Player.java">
+      <file leaf-file-name="PerfectPower.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/power/PerfectPower.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="413">
-              <caret line="48" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
-              <folding>
-                <element signature="e#421#422#0" expanded="true" />
-                <element signature="e#456#457#0" expanded="true" />
-                <element signature="e#1317#1318#0" expanded="true" />
-                <element signature="e#1397#1398#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Tortoise.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/racing/Tortoise.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="221">
-              <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+            <state relative-caret-position="238">
+              <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TortoiseTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/racing/TortoiseTest.java">
+      <file leaf-file-name="CheckAndMate.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/checkmate/CheckAndMate.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="1" lean-forward="false" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+            <state relative-caret-position="34">
+              <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CheckAndMate_Tests.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/checkmate/CheckAndMate_Tests.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1462">
+              <caret line="86" column="24" lean-forward="true" selection-start-line="86" selection-start-column="24" selection-end-line="86" selection-end-column="24" />
               <folding>
                 <element signature="imports" expanded="true" />
+                <element signature="e#591#604#0" expanded="true" />
+                <element signature="e#1050#1063#0" expanded="true" />
+                <element signature="e#1513#1526#0" expanded="true" />
+                <element signature="e#1978#1991#0" expanded="true" />
+                <element signature="e#2442#2455#0" expanded="true" />
+                <element signature="e#2905#2918#0" expanded="true" />
+                <element signature="e#3571#3584#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RockPaperScissorsPlayer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/rps/RockPaperScissorsPlayer.java">
+      <file leaf-file-name="PieceConfig.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/checkmate/PieceConfig.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="289">
-              <caret line="17" column="1" lean-forward="false" selection-start-line="17" selection-start-column="1" selection-end-line="17" selection-end-column="1" />
+            <state relative-caret-position="430">
+              <caret line="98" column="5" lean-forward="true" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+              <folding>
+                <element signature="e#836#837#0" expanded="true" />
+                <element signature="e#864#865#0" expanded="true" />
+                <element signature="e#893#894#0" expanded="true" />
+                <element signature="e#921#922#0" expanded="true" />
+                <element signature="e#946#947#0" expanded="true" />
+                <element signature="e#970#971#0" expanded="true" />
+                <element signature="e#995#996#0" expanded="true" />
+                <element signature="e#1019#1020#0" expanded="true" />
+                <element signature="e#1055#1056#0" expanded="true" />
+                <element signature="e#1100#1101#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PerfectPowerTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/power/PerfectPowerTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1003">
+              <caret line="59" column="24" lean-forward="false" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#363#364#0" expanded="true" />
+                <element signature="e#450#451#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#574#575#0" expanded="true" />
+                <element signature="e#611#612#0" expanded="true" />
+                <element signature="e#698#699#0" expanded="true" />
+                <element signature="e#735#736#0" expanded="true" />
+                <element signature="e#822#823#0" expanded="true" />
+                <element signature="e#859#860#0" expanded="true" />
+                <element signature="e#951#952#0" expanded="true" />
+                <element signature="e#988#989#0" expanded="true" />
+                <element signature="e#1074#1075#0" expanded="true" />
+                <element signature="e#1111#1112#0" expanded="true" />
+                <element signature="e#1203#1204#0" expanded="true" />
+                <element signature="e#1240#1241#0" expanded="true" />
+                <element signature="e#1332#1333#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="ScrambliesTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/scramble/ScrambliesTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="442">
+              <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#188#189#0" expanded="true" />
+                <element signature="e#234#235#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Josephus2.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/jp/Josephus2.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="TwoToOneTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/twotoone/TwoToOneTest.java">
+      <file leaf-file-name="JosephusTest.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/jp/JosephusTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="255">
-              <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            <state relative-caret-position="629">
+              <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
               <folding>
                 <element signature="imports" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrimeDecomp2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/prime/PrimeDecomp2.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="340">
-              <caret line="22" column="9" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="TreeSet.java" pinned="false" current-in-tab="false">
-        <entry file="jar://$USER_HOME$/soft/jdk1.8.0_131/jdk1.8.0_131/src.zip!/java/util/TreeSet.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="6307">
-              <caret line="434" column="13" lean-forward="false" selection-start-line="434" selection-start-column="13" selection-end-line="434" selection-end-column="13" />
-              <folding>
-                <element signature="e#0#20159#0" expanded="false" />
-                <element signature="e#3948#3949#0" expanded="false" />
-                <element signature="e#3974#3975#0" expanded="false" />
-                <element signature="e#4697#4698#0" expanded="false" />
-                <element signature="e#4742#4743#0" expanded="false" />
-                <element signature="e#5525#5526#0" expanded="false" />
-                <element signature="e#5572#5573#0" expanded="false" />
-                <element signature="e#7027#7028#0" expanded="false" />
-                <element signature="e#7080#7081#0" expanded="false" />
-                <element signature="e#7323#7324#0" expanded="false" />
-                <element signature="e#7377#7378#0" expanded="false" />
-                <element signature="e#7457#7458#0" expanded="false" />
-                <element signature="e#7512#7513#0" expanded="false" />
-                <element signature="e#7697#7698#0" expanded="false" />
-                <element signature="e#7728#7729#0" expanded="false" />
-                <element signature="e#7906#7907#0" expanded="false" />
-                <element signature="e#7940#7941#0" expanded="false" />
-                <element signature="e#8711#8712#0" expanded="false" />
-                <element signature="e#8750#8751#0" expanded="false" />
-                <element signature="e#9664#9665#0" expanded="false" />
-                <element signature="e#9710#9711#0" expanded="false" />
-                <element signature="e#10673#10674#0" expanded="false" />
-                <element signature="e#10716#10717#0" expanded="false" />
-                <element signature="e#10863#10864#0" expanded="false" />
-                <element signature="e#10888#10889#0" expanded="false" />
-                <element signature="e#14049#14050#0" expanded="false" />
-                <element signature="e#14115#14116#0" expanded="false" />
-                <element signature="e#14460#14461#0" expanded="false" />
-                <element signature="e#14508#14509#0" expanded="false" />
-                <element signature="e#14857#14858#0" expanded="false" />
-                <element signature="e#14906#14907#0" expanded="false" />
-                <element signature="e#14955#14956#0" expanded="false" />
-                <element signature="e#14992#14993#0" expanded="false" />
-                <element signature="e#15084#15085#0" expanded="false" />
-                <element signature="e#15119#15120#0" expanded="false" />
-                <element signature="e#15210#15211#0" expanded="false" />
-                <element signature="e#15244#15245#0" expanded="false" />
-                <element signature="e#15569#15570#0" expanded="false" />
-                <element signature="e#15605#15606#0" expanded="false" />
-                <element signature="e#15897#15898#0" expanded="false" />
-                <element signature="e#15933#15934#0" expanded="false" />
-                <element signature="e#16558#16559#0" expanded="false" />
-                <element signature="e#16595#16596#0" expanded="false" />
-                <element signature="e#20031#20032#0" expanded="false" />
-                <element signature="e#20082#20083#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="PrimeDecompTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/prime/PrimeDecompTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="187">
-              <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
-              <folding>
-                <element signature="imports" expanded="true" />
+                <element signature="e#746#747#0" expanded="true" />
+                <element signature="e#847#848#0" expanded="true" />
+                <element signature="e#884#885#0" expanded="true" />
+                <element signature="e#947#948#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -262,6 +250,18 @@
         <option value="$PROJECT_DIR$/src/ru/smoldyrev/rps/Player.java" />
         <option value="$PROJECT_DIR$/src/ru/smoldyrev/racing/TortoiseTest.java" />
         <option value="$PROJECT_DIR$/src/ru/smoldyrev/racing/Tortoise.java" />
+        <option value="$USER_HOME$/pf/junit/junit-4.10.jar!/org/junit/internal/runners/model/ReflectiveCallable.class" />
+        <option value="$PROJECT_DIR$/src/ru/smoldyrev/jp/Josephus3.java" />
+        <option value="$PROJECT_DIR$/src/ru/smoldyrev/jp/JosephusTest.java" />
+        <option value="$PROJECT_DIR$/src/ru/smoldyrev/jp/Josephus2.java" />
+        <option value="$PROJECT_DIR$/src/ru/smoldyrev/jp/Josephus.java" />
+        <option value="$PROJECT_DIR$/src/ru/smoldyrev/scramble/ScrambliesTest.java" />
+        <option value="$PROJECT_DIR$/src/ru/smoldyrev/scramble/Scramblies.java" />
+        <option value="$PROJECT_DIR$/src/ru/smoldyrev/power/PerfectPowerTest.java" />
+        <option value="$PROJECT_DIR$/src/ru/smoldyrev/power/PerfectPower.java" />
+        <option value="$PROJECT_DIR$/src/ru/smoldyrev/checkmate/PieceConfig.java" />
+        <option value="$PROJECT_DIR$/src/ru/smoldyrev/checkmate/CheckAndMate.java" />
+        <option value="$PROJECT_DIR$/src/ru/smoldyrev/checkmate/CheckAndMate_Tests.java" />
       </list>
     </option>
   </component>
@@ -366,7 +366,7 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
             <PATH_ELEMENT>
-              <option name="myItemId" value="racing" />
+              <option name="myItemId" value="checkmate" />
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
@@ -386,9 +386,124 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="ru.smoldyrev.jp" />
       <recent name="ru.smoldyrev.prime" />
       <recent name="ru.smoldyrev.smile" />
     </key>
+  </component>
+  <component name="RestoreUpdateTree" date="Moments ago" ActionInfo="_Update">
+    <UpdatedFiles>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Updated from server" />
+        <option name="myStatusName" value="Changed on server" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="CHANGED_ON_SERVER" />
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Updated" />
+          <option name="myStatusName" value="Changed" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="UPDATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/ru/smoldyrev/racing/Tortoise.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Created" />
+          <option name="myStatusName" value="Created" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="CREATED" />
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/ru/smoldyrev/count/CountingDuplicates.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/ru/smoldyrev/count/SolutionTest.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/ru/smoldyrev/sudoku/SudokuValidator.java</PATH>
+          <PATH vcs="Git" revision="">$PROJECT_DIR$/src/ru/smoldyrev/sudoku/SudokuValidatorTest.java</PATH>
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Deleted" />
+          <option name="myStatusName" value="Deleted" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="true" />
+          <option name="myId" value="REMOVED_FROM_REPOSITORY" />
+        </FILE-GROUP>
+        <FILE-GROUP>
+          <option name="myUpdateName" value="Restored" />
+          <option name="myStatusName" value="Will be restored" />
+          <option name="mySupportsDeletion" value="false" />
+          <option name="myCanBeAbsent" value="false" />
+          <option name="myId" value="RESTORED" />
+        </FILE-GROUP>
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Modified" />
+        <option name="myStatusName" value="Modified" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MODIFIED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Skipped" />
+        <option name="myStatusName" value="Skipped" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SKIPPED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with conflicts" />
+        <option name="myStatusName" value="Will be merged with conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_CONFLICTS" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with tree conflicts" />
+        <option name="myStatusName" value="Merged with tree conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_TREE_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged with property conflicts" />
+        <option name="myStatusName" value="Will be merged with property conflicts" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED_WITH_PROPERTY_CONFLICT" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Merged" />
+        <option name="myStatusName" value="Will be merged" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="MERGED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Not in repository" />
+        <option name="myStatusName" value="Not in repository" />
+        <option name="mySupportsDeletion" value="true" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="UNKNOWN" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally added" />
+        <option name="myStatusName" value="Locally added" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_ADDED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Locally removed" />
+        <option name="myStatusName" value="Locally removed" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="LOCALLY_REMOVED" />
+      </FILE-GROUP>
+      <FILE-GROUP>
+        <option name="myUpdateName" value="Switched" />
+        <option name="myStatusName" value="Switched" />
+        <option name="mySupportsDeletion" value="false" />
+        <option name="myCanBeAbsent" value="false" />
+        <option name="myId" value="SWITCHED" />
+      </FILE-GROUP>
+    </UpdatedFiles>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -402,41 +517,21 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.TortoiseTest.test1">
-    <configuration default="false" name="PrimeDecomp" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.PerfectPowerTest">
+    <configuration default="false" name="JosephusTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ru.smoldyrev.prime.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ru.smoldyrev.prime.PrimeDecomp" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="codewars" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="PrimeDecompTest.testPrimeDecompOne" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ru.smoldyrev.prime.*" />
+          <option name="PATTERN" value="ru.smoldyrev.jp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="codewars" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ru.smoldyrev.prime" />
-      <option name="MAIN_CLASS_NAME" value="ru.smoldyrev.prime.PrimeDecompTest" />
-      <option name="METHOD_NAME" value="testPrimeDecompOne" />
-      <option name="TEST_OBJECT" value="method" />
+      <option name="PACKAGE_NAME" value="ru.smoldyrev.jp" />
+      <option name="MAIN_CLASS_NAME" value="ru.smoldyrev.jp.JosephusTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -449,38 +544,18 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="PrimeDecomp2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="ScrambliesTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ru.smoldyrev.prime.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="MAIN_CLASS_NAME" value="ru.smoldyrev.prime.PrimeDecomp2" />
-      <option name="VM_PARAMETERS" />
-      <option name="PROGRAM_PARAMETERS" />
-      <option name="WORKING_DIRECTORY" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
-      <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="ENABLE_SWING_INSPECTOR" value="false" />
-      <option name="ENV_VARIABLES" />
-      <option name="PASS_PARENT_ENVS" value="true" />
-      <module name="codewars" />
-      <envs />
-      <method />
-    </configuration>
-    <configuration default="false" name="TwoToOneTest.test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
-        <pattern>
-          <option name="PATTERN" value="ru.smoldyrev.twotoone.*" />
+          <option name="PATTERN" value="ru.smoldyrev.scramble.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="codewars" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ru.smoldyrev.twotoone" />
-      <option name="MAIN_CLASS_NAME" value="ru.smoldyrev.twotoone.TwoToOneTest" />
+      <option name="PACKAGE_NAME" value="ru.smoldyrev.scramble" />
+      <option name="MAIN_CLASS_NAME" value="ru.smoldyrev.scramble.ScrambliesTest" />
       <option name="METHOD_NAME" value="test" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
@@ -495,19 +570,71 @@
       <patterns />
       <method />
     </configuration>
-    <configuration default="false" name="TortoiseTest.test1" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration default="false" name="PerfectPowerTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="ru.smoldyrev.racing.*" />
+          <option name="PATTERN" value="ru.smoldyrev.power.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
       <module name="codewars" />
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
-      <option name="PACKAGE_NAME" value="ru.smoldyrev.racing" />
-      <option name="MAIN_CLASS_NAME" value="ru.smoldyrev.racing.TortoiseTest" />
-      <option name="METHOD_NAME" value="test1" />
+      <option name="PACKAGE_NAME" value="ru.smoldyrev.power" />
+      <option name="MAIN_CLASS_NAME" value="ru.smoldyrev.power.PerfectPowerTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="PerfectPowerTest.testRandomPerfectPowers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.smoldyrev.power.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="codewars" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ru.smoldyrev.power" />
+      <option name="MAIN_CLASS_NAME" value="ru.smoldyrev.power.PerfectPowerTest" />
+      <option name="METHOD_NAME" value="testRandomPerfectPowers" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+      <method />
+    </configuration>
+    <configuration default="false" name="PerfectPowerTest.testRandomNumbers" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="ru.smoldyrev.power.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="codewars" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="ru.smoldyrev.power" />
+      <option name="MAIN_CLASS_NAME" value="ru.smoldyrev.power.PerfectPowerTest" />
+      <option name="METHOD_NAME" value="testRandomNumbers" />
       <option name="TEST_OBJECT" value="method" />
       <option name="VM_PARAMETERS" />
       <option name="PARAMETERS" />
@@ -703,19 +830,19 @@
       <method />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.PrimeDecomp" />
-      <item index="1" class="java.lang.String" itemvalue="JUnit.PrimeDecompTest.testPrimeDecompOne" />
-      <item index="2" class="java.lang.String" itemvalue="Application.PrimeDecomp2" />
-      <item index="3" class="java.lang.String" itemvalue="JUnit.TwoToOneTest.test" />
-      <item index="4" class="java.lang.String" itemvalue="JUnit.TortoiseTest.test1" />
+      <item index="0" class="java.lang.String" itemvalue="JUnit.JosephusTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.ScrambliesTest.test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.PerfectPowerTest" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.PerfectPowerTest.testRandomPerfectPowers" />
+      <item index="4" class="java.lang.String" itemvalue="JUnit.PerfectPowerTest.testRandomNumbers" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="JUnit.TortoiseTest.test1" />
-        <item index="1" class="java.lang.String" itemvalue="JUnit.TwoToOneTest.test" />
-        <item index="2" class="java.lang.String" itemvalue="JUnit.PrimeDecompTest.testPrimeDecompOne" />
-        <item index="3" class="java.lang.String" itemvalue="Application.PrimeDecomp" />
-        <item index="4" class="java.lang.String" itemvalue="Application.PrimeDecomp2" />
+        <item index="0" class="java.lang.String" itemvalue="JUnit.PerfectPowerTest" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.PerfectPowerTest.testRandomNumbers" />
+        <item index="2" class="java.lang.String" itemvalue="JUnit.PerfectPowerTest.testRandomPerfectPowers" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.ScrambliesTest.test" />
+        <item index="4" class="java.lang.String" itemvalue="JUnit.JosephusTest" />
       </list>
     </recent_temporary>
   </component>
@@ -743,39 +870,46 @@
       <option name="project" value="LOCAL" />
       <updated>1541164315627</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="codewars - 1411">
+      <created>1542208781062</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1542208781062</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
-    <history-entry file="TortoiseTest_test1 - 2018.11.14 at 17h 53m 17s.xml">
-      <configuration name="TortoiseTest.test1" configurationId="JUnit" />
+    <history-entry file="PerfectPowerTest - 2018.11.16 at 09h 42m 43s.xml">
+      <configuration name="PerfectPowerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TortoiseTest_test1 - 2018.11.14 at 17h 53m 41s.xml">
-      <configuration name="TortoiseTest.test1" configurationId="JUnit" />
+    <history-entry file="PerfectPowerTest - 2018.11.16 at 09h 47m 01s.xml">
+      <configuration name="PerfectPowerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TortoiseTest_test1 - 2018.11.14 at 17h 55m 16s.xml">
-      <configuration name="TortoiseTest.test1" configurationId="JUnit" />
+    <history-entry file="PerfectPowerTest - 2018.11.16 at 09h 57m 50s.xml">
+      <configuration name="PerfectPowerTest" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TortoiseTest_test1 - 2018.11.14 at 17h 55m 40s.xml">
-      <configuration name="TortoiseTest.test1" configurationId="JUnit" />
+    <history-entry file="PerfectPowerTest_testRandomNumbers - 2018.11.16 at 09h 48m 15s.xml">
+      <configuration name="PerfectPowerTest.testRandomNumbers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TortoiseTest_test1 - 2018.11.14 at 17h 57m 35s.xml">
-      <configuration name="TortoiseTest.test1" configurationId="JUnit" />
+    <history-entry file="PerfectPowerTest_testRandomNumbers - 2018.11.16 at 09h 57m 43s.xml">
+      <configuration name="PerfectPowerTest.testRandomNumbers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TortoiseTest_test1 - 2018.11.14 at 17h 58m 43s.xml">
-      <configuration name="TortoiseTest.test1" configurationId="JUnit" />
+    <history-entry file="PerfectPowerTest_testRandomPerfectPowers - 2018.11.16 at 09h 43m 08s.xml">
+      <configuration name="PerfectPowerTest.testRandomPerfectPowers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TortoiseTest_test1 - 2018.11.14 at 18h 05m 19s.xml">
-      <configuration name="TortoiseTest.test1" configurationId="JUnit" />
+    <history-entry file="PerfectPowerTest_testRandomPerfectPowers - 2018.11.16 at 09h 46m 31s.xml">
+      <configuration name="PerfectPowerTest.testRandomPerfectPowers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TortoiseTest_test1 - 2018.11.14 at 18h 09m 19s.xml">
-      <configuration name="TortoiseTest.test1" configurationId="JUnit" />
+    <history-entry file="PerfectPowerTest_testRandomPerfectPowers - 2018.11.16 at 09h 46m 45s.xml">
+      <configuration name="PerfectPowerTest.testRandomPerfectPowers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TortoiseTest_test1 - 2018.11.14 at 18h 12m 49s.xml">
-      <configuration name="TortoiseTest.test1" configurationId="JUnit" />
+    <history-entry file="PerfectPowerTest_testRandomPerfectPowers - 2018.11.16 at 09h 57m 39s.xml">
+      <configuration name="PerfectPowerTest.testRandomPerfectPowers" configurationId="JUnit" />
     </history-entry>
-    <history-entry file="TortoiseTest_test1 - 2018.11.14 at 18h 14m 12s.xml">
-      <configuration name="TortoiseTest.test1" configurationId="JUnit" />
+    <history-entry file="ScrambliesTest_test - 2018.11.15 at 15h 34m 59s.xml">
+      <configuration name="ScrambliesTest.test" configurationId="JUnit" />
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
@@ -794,18 +928,19 @@
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32995737" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32850778" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32850778" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Properties" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26439232" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32962137" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.3997773" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3997773" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -813,7 +948,6 @@
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Learn" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -851,7 +985,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="codewars - 0211" />
-    <option name="LAST_COMMIT_MESSAGE" value="codewars - 0211" />
+    <MESSAGE value="codewars - 1411" />
+    <option name="LAST_COMMIT_MESSAGE" value="codewars - 1411" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -863,7 +998,7 @@
           <option name="timeStamp" value="73" />
         </line-breakpoint>
       </breakpoints>
-      <option name="time" value="82" />
+      <option name="time" value="93" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -872,90 +1007,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/order/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/smile/SmileFaces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/square/SquareDigitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="136">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/smile/SmileFacesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="561">
-          <caret line="36" column="1" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/order/OrderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="68">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/square/SquareDigit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="102">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="11" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/order/Order.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="8" column="5" lean-forward="false" selection-start-line="8" selection-start-column="5" selection-end-line="8" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/smile/SmileFaces.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="18" column="8" lean-forward="false" selection-start-line="18" selection-start-column="8" selection-end-line="18" selection-end-column="80" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/smile/SmileFacesTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="495">
-          <caret line="36" column="1" lean-forward="false" selection-start-line="36" selection-start-column="1" selection-end-line="36" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/square/SquareDigitTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="120">
-          <caret line="11" column="1" lean-forward="false" selection-start-line="11" selection-start-column="1" selection-end-line="11" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/order/OrderTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="60">
-          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/square/SquareDigit.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="6" column="0" lean-forward="false" selection-start-line="6" selection-start-column="0" selection-end-line="11" selection-end-column="67" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/smile/SmileFacesTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="561">
@@ -1163,6 +1214,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="412">
           <caret line="338" column="28" lean-forward="false" selection-start-line="338" selection-start-column="28" selection-end-line="338" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -1233,7 +1285,7 @@
         <state relative-caret-position="187">
           <caret line="11" column="27" lean-forward="false" selection-start-line="11" selection-start-column="27" selection-end-line="11" selection-end-column="27" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1241,7 +1293,7 @@
     <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/prime/PrimeDecomp2.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="340">
-          <caret line="22" column="9" lean-forward="true" selection-start-line="14" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
+          <caret line="22" column="9" lean-forward="false" selection-start-line="14" selection-start-column="8" selection-end-line="22" selection-end-column="9" />
           <folding />
         </state>
       </provider>
@@ -1251,7 +1303,7 @@
         <state relative-caret-position="153">
           <caret line="9" column="13" lean-forward="false" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1259,9 +1311,9 @@
     <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/twotoone/TwoToOneTest.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="255">
-          <caret line="15" column="5" lean-forward="true" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
           <folding>
-            <element signature="imports" expanded="true" />
+            <element signature="imports" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1285,12 +1337,12 @@
     <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/rps/Player.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="413">
-          <caret line="48" column="5" lean-forward="true" selection-start-line="7" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
+          <caret line="48" column="5" lean-forward="false" selection-start-line="7" selection-start-column="4" selection-end-line="48" selection-end-column="5" />
           <folding>
-            <element signature="e#421#422#0" expanded="true" />
-            <element signature="e#456#457#0" expanded="true" />
-            <element signature="e#1317#1318#0" expanded="true" />
-            <element signature="e#1397#1398#0" expanded="true" />
+            <element signature="e#421#422#0" expanded="false" />
+            <element signature="e#456#457#0" expanded="false" />
+            <element signature="e#1317#1318#0" expanded="false" />
+            <element signature="e#1397#1398#0" expanded="false" />
           </folding>
         </state>
       </provider>
@@ -1307,9 +1359,155 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/racing/Tortoise.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="221">
-          <caret line="13" column="0" lean-forward="false" selection-start-line="13" selection-start-column="0" selection-end-line="13" selection-end-column="0" />
+        <state relative-caret-position="153">
+          <caret line="9" column="0" lean-forward="false" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/pf/junit/junit-4.10.jar!/org/junit/internal/runners/model/ReflectiveCallable.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="17" column="0" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="17" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/jp/Josephus3.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="107" lean-forward="false" selection-start-line="26" selection-start-column="107" selection-end-line="26" selection-end-column="107" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/jp/Josephus2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/jp/JosephusTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="629">
+          <caret line="37" column="27" lean-forward="false" selection-start-line="37" selection-start-column="27" selection-end-line="37" selection-end-column="27" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#746#747#0" expanded="true" />
+            <element signature="e#847#848#0" expanded="true" />
+            <element signature="e#884#885#0" expanded="true" />
+            <element signature="e#947#948#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/jp/Josephus.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="408">
+          <caret line="24" column="9" lean-forward="true" selection-start-line="24" selection-start-column="9" selection-end-line="24" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/scramble/ScrambliesTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="442">
+          <caret line="26" column="1" lean-forward="false" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#188#189#0" expanded="true" />
+            <element signature="e#234#235#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/scramble/Scramblies.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="136">
+          <caret line="8" column="0" lean-forward="false" selection-start-line="8" selection-start-column="0" selection-end-line="9" selection-end-column="124" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/power/PerfectPowerTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1003">
+          <caret line="59" column="24" lean-forward="false" selection-start-line="59" selection-start-column="24" selection-end-line="59" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#363#364#0" expanded="true" />
+            <element signature="e#450#451#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#574#575#0" expanded="true" />
+            <element signature="e#611#612#0" expanded="true" />
+            <element signature="e#698#699#0" expanded="true" />
+            <element signature="e#735#736#0" expanded="true" />
+            <element signature="e#822#823#0" expanded="true" />
+            <element signature="e#859#860#0" expanded="true" />
+            <element signature="e#951#952#0" expanded="true" />
+            <element signature="e#988#989#0" expanded="true" />
+            <element signature="e#1074#1075#0" expanded="true" />
+            <element signature="e#1111#1112#0" expanded="true" />
+            <element signature="e#1203#1204#0" expanded="true" />
+            <element signature="e#1240#1241#0" expanded="true" />
+            <element signature="e#1332#1333#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/power/PerfectPower.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="14" column="27" lean-forward="true" selection-start-line="14" selection-start-column="27" selection-end-line="14" selection-end-column="27" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/checkmate/PieceConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="98" column="5" lean-forward="true" selection-start-line="98" selection-start-column="5" selection-end-line="98" selection-end-column="5" />
+          <folding>
+            <element signature="e#836#837#0" expanded="true" />
+            <element signature="e#864#865#0" expanded="true" />
+            <element signature="e#893#894#0" expanded="true" />
+            <element signature="e#921#922#0" expanded="true" />
+            <element signature="e#946#947#0" expanded="true" />
+            <element signature="e#970#971#0" expanded="true" />
+            <element signature="e#995#996#0" expanded="true" />
+            <element signature="e#1019#1020#0" expanded="true" />
+            <element signature="e#1055#1056#0" expanded="true" />
+            <element signature="e#1100#1101#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/checkmate/CheckAndMate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/ru/smoldyrev/checkmate/CheckAndMate_Tests.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1462">
+          <caret line="86" column="24" lean-forward="true" selection-start-line="86" selection-start-column="24" selection-end-line="86" selection-end-column="24" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#591#604#0" expanded="true" />
+            <element signature="e#1050#1063#0" expanded="true" />
+            <element signature="e#1513#1526#0" expanded="true" />
+            <element signature="e#1978#1991#0" expanded="true" />
+            <element signature="e#2442#2455#0" expanded="true" />
+            <element signature="e#2905#2918#0" expanded="true" />
+            <element signature="e#3571#3584#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
