@@ -1,5 +1,7 @@
 package ru.smoldyrev.checkmate;
 
+import java.util.Objects;
+
 /**
  * Created by SBT-Smoldyrev-EI on 16.11.2018.
  */
@@ -69,27 +71,18 @@ public class PieceConfig {
     @Override
     public boolean equals(Object o) {
         if (this == o) return true;
-        if (!(o instanceof PieceConfig)) return false;
-
+        if (o == null || getClass() != o.getClass()) return false;
         PieceConfig that = (PieceConfig) o;
-
-        if (getOwner() != that.getOwner()) return false;
-        if (getX() != that.getX()) return false;
-        if (getY() != that.getY()) return false;
-        if (getPrevX() != that.getPrevX()) return false;
-        if (getPrevY() != that.getPrevY()) return false;
-        return getPiece().equals(that.getPiece());
+        return owner == that.owner &&
+                x == that.x &&
+                y == that.y &&
+                Objects.equals(piece, that.piece);
     }
 
     @Override
     public int hashCode() {
-        int result = getPiece().hashCode();
-        result = 31 * result + getOwner();
-        result = 31 * result + getX();
-        result = 31 * result + getY();
-        result = 31 * result + getPrevX();
-        result = 31 * result + getPrevY();
-        return result;
+
+        return Objects.hash(piece, owner, x, y);
     }
 
     @Override
