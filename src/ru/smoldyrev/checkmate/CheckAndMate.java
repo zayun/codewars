@@ -20,6 +20,12 @@ public class CheckAndMate {
     }
 
     public static boolean isMate(final PieceConfig[] arrPieces, int player) {
+
+        Arrays.stream(arrPieces).filter(p -> p.getOwner() == player).forEach(p -> {
+            getSteps(arrPieces, p).stream().forEach(p);
+        });
+
+
         throw new RuntimeException("Not implemented yet!");
     }
 

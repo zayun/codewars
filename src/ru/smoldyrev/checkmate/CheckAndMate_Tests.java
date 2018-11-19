@@ -87,4 +87,20 @@ public class CheckAndMate_Tests {
         Set<PieceConfig> expected = new HashSet<PieceConfig>(Arrays.asList(game[5], game[6]));
         assertEquals("Double threat", expected, CheckAndMate.isCheck(game, 0));
     }
+
+    @Test
+    public void test_isMate_1() {
+        PieceConfig[] game = new PieceConfig[] { new PieceConfig("king", 1, 4, 0),
+                new PieceConfig("bishop", 1, 0, 3),
+                new PieceConfig("queen", 1, 0, 7),
+                new PieceConfig("pawn", 0, 1, 6),
+                new PieceConfig("pawn", 0, 4, 6),
+                new PieceConfig("pawn", 0, 5, 6),
+                new PieceConfig("rook", 0, 3, 7),
+                new PieceConfig("king", 0, 4, 7),
+                new PieceConfig("bishop", 0, 5, 7),
+        };
+//        OutputBoard.print(game);
+        assertEquals(false, CheckAndMate.isMate(game, 0));
+    }
 }
